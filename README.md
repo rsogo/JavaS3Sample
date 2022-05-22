@@ -13,8 +13,10 @@ mvn package
 
 ## Reference
 
+https://docs.aws.amazon.com/ja_jp/sdk-for-java/latest/developer-guide/home.html
+
 - About Credentials
-https://docs.aws.amazon.com/ja_jp/sdk-for-java/v1/developer-guide/setup-credentials.html
+https://docs.aws.amazon.com/ja_jp/sdk-for-java/latest/developer-guide/credentials.html
 
 - Samples from AWS
-https://docs.aws.amazon.com/ja_jp/sdk-for-java/v1/developer-guide/examples-s3.html
+https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/javav2/example_code/s3/src/main/java/com/example
