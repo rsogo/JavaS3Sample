@@ -1,4 +1,4 @@
-
+This is sample code using AWS S3 by Java.
 
 ## How to build and Run test
 
@@ -11,3 +11,10 @@ mvn package
 
 ![](./screen.png)
 
+## Reference
+
+- About Credentials
+https://docs.aws.amazon.com/ja_jp/sdk-for-java/v1/developer-guide/setup-credentials.html
+
+- Samples from AWS
+https://docs.aws.amazon.com/ja_jp/sdk-for-java/v1/developer-guide/examples-s3.html
